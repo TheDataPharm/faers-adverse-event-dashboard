@@ -1,0 +1,13 @@
+# Data files (FAERS raw data)
+data/raw/
+data/processed/*.csv
+
+# Jupyter notebook checkpoints (auto-generated)
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
