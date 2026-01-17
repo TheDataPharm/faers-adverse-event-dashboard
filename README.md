@@ -5,7 +5,7 @@ Post-market pharmacovigilance dashboard analyzing FDA FAERS adverse event report
 # FDA Adverse Event Signal Detection Dashboard 🏥
 
 ## Executive Summary
-This project analyzes **Post-Market Drug Safety surveillance data** from the FDA Adverse Event Reporting System (FAERS). By visualizing adverse drug reactions (ADRs) for [Insert Drug Class, e.g., GLP-1 Agonists], this dashboard aids pharmacovigilance teams in identifying safety signals, demographic trends, and outcome severity distribution.
+This project analyzes **Post-Market Drug Safety surveillance data** from the FDA Adverse Event Reporting System (FAERS). By visualizing adverse drug reactions (ADRs) for GLP-1 Agonists, this dashboard aids pharmacovigilance teams in identifying safety signals, demographic trends, and outcome severity distribution.
 
 ## Business Value
 * **Regulatory Compliance:** Accelerates signal detection for safety updates.
@@ -27,8 +27,7 @@ This project analyzes **Post-Market Drug Safety surveillance data** from the FDA
 * **Domain:** Pharmacovigilance, MedDRA Coding
 
 ## Key Insights
-* *Example:* "Gastrointestinal disorders accounted for 60% of reports for Drug X, with a spike in hospitalization rates among patients >65 years."
-* *Example:* "Signal detected for [Side Effect] which is currently not listed in the black box warning."
+
 
 ## How to Run
 1.  Clone the repo.
