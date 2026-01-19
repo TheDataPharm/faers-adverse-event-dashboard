@@ -1,0 +1,11 @@
+# Ignore ALL Data Files
+data/processed/*.parquet
+data/processed/*.csv
+data/raw/*
+
+# Ignore Power BI Data Models (Too big)
+*.pbix
+
+# Ignore Python Cache
+__pycache__/
+.ipynb_checkpoints/
