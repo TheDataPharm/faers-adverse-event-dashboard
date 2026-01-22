@@ -3,7 +3,7 @@
 
 ### 📺 **[Watch the 90-Second Project Demo](https://www.loom.com/share/cd741ea34ee74b01a1d20676bc423d3d)**
 
-> *Note: I investigated if the safety profile of Semaglutide changes when prescribed to a generally healthy population (Obesity) versus a diabetic one.*
+> *Note: I investigated if the safety profile of Ozempic, Mounjaro Semaglutide.... changes when prescribed to a generally healthy population (Obesity) versus a diabetic one.*
 
 ---
 
