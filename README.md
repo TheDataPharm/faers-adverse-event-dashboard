@@ -1,9 +1,9 @@
 # GLP-1 Safety Signal Dashboard 🏥
-**Analyzing 200,000+ FDA Adverse Event Reports for Ozempic & Wegovy**
+**Analyzing 200,000+ FDA Adverse Event Reports for GLP-1 Agonists**
 
 ### 📺 **[Watch the 90-Second Project Demo](https://www.loom.com/share/cd741ea34ee74b01a1d20676bc423d3d)**
 
-> *Note: I investigated if the safety profile of Ozempic, Mounjaro Semaglutide.... changes when prescribed to a generally healthy population (Obesity) versus a diabetic one.*
+> *Note: I investigated if the safety profile of Ozempic, Mounjaro, Wegovy.... changes when prescribed to a generally healthy population (Obesity) versus a diabetic one.*
 
 ---
 
@@ -26,7 +26,7 @@ Do the high hospitalization rates reported in the media reflect the drug's intri
 
 ---
 
-## 🛠️ Technical Approach
+## Technical Approach
 
 ### 1. Data Engineering (Python)
 * **Ingestion:** Processed raw FDA ASCII files (200k+ rows) using Pandas.
